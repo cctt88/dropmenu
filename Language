@@ -1,0 +1,14 @@
+<div id="language">
+	    <ul id="normal" class="dropmenu">
+	      <li><a href="#">日本語</a>
+	        <ul>
+	          <li><a href="#">English</a></li>
+	          <li><a href="#">中文</a></li>
+	          <li><a href="#">???</a></li>
+	          <li><a href="#">Deutsch</a></li>
+	          <li><a href="#">Francais</a></li>
+	          <li><a href="#">Espanol </a></li>
+	        </ul>
+	      </li>
+	    <ul>
+	  </div><!-- #language -->
